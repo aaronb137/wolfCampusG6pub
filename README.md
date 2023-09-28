@@ -20,6 +20,8 @@ Python w/Flask
 Firebase
 Python
 PyTorch
+
+
 Collaborators
 
 https://github.com/clintvega
