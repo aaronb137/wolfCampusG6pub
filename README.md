@@ -3,8 +3,11 @@ WolfCampus (https://wolfcampus-d04e6.firebaseapp.com/)
 Built using Vue 3 and Firebase 9
 
 You can find our design documentation at this link:
-
 https://docs.google.com/document/d/1Pqg7nBARuD2jmPpGTi0ShnbJM_W-k38oNcZfoDlp5v4/edit?usp=sharing
+
+Slide deck presentation:
+https://docs.google.com/presentation/d/1KnzyR6fj4cKFdY5tzaaAsUwqxTvADX0z_9KnJse6gtc/edit#slide=id.p1
+
 Project Description
 
 Initially created to be a 'Canvas-killer', we came up with WolfCampus as an alternative to the prominent University web application, Canvas. We did not kill Canvas unfortunately by the end of it, but the process of learning this tech stack was well worth it. WolfCampus was created for CS425/426 as our capstone project for the Computer Science & Engineering degree program. The main features are: being able to create an account as a student, join classes that you are in, follow your fellow students in these classes, make posts, upload notes, create textbook reselling posts, and explore different communities/topics at your university.
