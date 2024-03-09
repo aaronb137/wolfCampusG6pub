@@ -1,4 +1,4 @@
-WolfCampus
+WolfCampus (https://wolfcampus-d04e6.firebaseapp.com/)
 
 Built using Vue 3 and Firebase 9
 
