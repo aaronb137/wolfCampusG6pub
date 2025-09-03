@@ -1,3 +1,5 @@
+<img width="1393" height="1043" alt="image" src="https://github.com/user-attachments/assets/40cc26ef-e193-425a-8248-6e488a41906f" />
+
 WolfCampus (https://wolfcampus-d04e6.firebaseapp.com/)
 
 Built using Vue 3 and Firebase 9
